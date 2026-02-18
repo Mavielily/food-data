@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Nem nướng Nha Trang Anh Tư Béo",
+    "address": "Số 151 Chùa Láng",
+    "distance": "220m",
+    "price": "30-40k",
+    "type": ["Nem nướng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "9:00 - 22:00",
+    "menu": [
+      { "dish": "Nem nướng", "price": "35k" },
+      { "dish": "Nem nướng vip", "price": "55k" },
+      { "dish": "Bánh bột lọc (1 suất/6 cái)", "price": "35k" },
+      { "dish": "Nem chua rán", "price": "35k" },
+      { "dish": "Chân gà sốt Thái", "price": "40k" }
+    ],
+    "reviews": [
+      {
+        "name": "Đặng Thúy Quỳnh",
+        "rating": 5,
+        "content": "Quán nem nướng Nha Trang tủ của mình, 10đ không nói nhiều"
+      },
+      {
+        "name": "Mai Lan Hoàng",
+        "rating": 5,
+        "content": "Cô chú rất nhiệt tình, ăn ngon, quán sạch sẽ thoáng mát, mình ăn rất nhiều lần rồi"
+      },
+      {
+        "name": "Hà Hoàng",
+        "rating": 5,
+        "content": "Nem nướng bình thường, không đặc sắc lắm, nước chấm cũng tạm, nem chua rán không ngon lắm"
+      }
+    ]
+  },
+  {
+    "name": "Nem nướng Nha Trang Vân Linh",
+    "address": "Số 18 Ngõ 59 Chùa Láng",
+    "distance": "230m",
+    "price": "30-40k",
+    "type": ["Nem nướng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "",
+    "menu": [
+      { "dish": "Nem nướng Nha Trang", "price": "35k" },
+      { "dish": "Thịt nem nướng", "price": "18k" }
+    ],
+    "reviews": [
+      {
+        "name": "Nguyệt Nguyễn Minh",
+        "rating": 5,
+        "content": "1 suất siêu đầy đặn siêu nhiều! Quán sạch sẽ, ăn xong no căng luôn, nước chấm vừa miệng"
+      },
+      {
+        "name": "Lê Hà Linh",
+        "rating": 5,
+        "content": "Quán sạch sẽ, đi tầm 11h trưa sẽ vắng và thoáng mát, đồ ăn ở mức ổn trong tầm giá"
+      },
+      {
+        "name": "Uyên Mai",
+        "rating": 5,
+        "content": "Một suất 2 người ăn rất nhiều rau và nem, ăn no lắm luôn, 10 sao nha"
+      }
+    ]
+  },
+  {
+    "name": "Nem nướng Nha Trang Tâm Việt",
+    "address": "Số 10 Ngõ 121 Chùa Láng",
+    "distance": "240m",
+    "price": "40-50k",
+    "type": ["Nem nướng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "9:00 - 14:00 / 15:00 - 21:00",
+    "menu": [
+      { "dish": "Nem nướng Nha Trang", "price": "39k" },
+      { "dish": "Thịt nem nướng", "price": "18k" },
+      { "dish": "Bún chả cá Nha Trang", "price": "40k" },
+      { "dish": "Bánh tráng cuốn thịt heo luộc", "price": "55k" },
+      { "dish": "Bánh tráng cuốn thịt heo quay", "price": "65k" }
+    ],
+    "reviews": [
+      {
+        "name": "Vân Vũ Thảo",
+        "rating": 4,
+        "content": "Quán đông khách nhưng mình không cần chờ, đến là có bàn"
+      },
+      {
+        "name": "Diệp Đặng",
+        "rating": 4,
+        "content": "Suất nem đầy đặn, sạch sẽ, rau tươi, nem ổn nhưng chưa quá đặc sắc, nước chấm bình thường"
+      },
+      {
+        "name": "Hà Vũ Hải",
+        "rating": 5,
+        "content": "Đồ ăn ok, phục vụ nhiệt tình vui vẻ, sốt chấm và rau gọi thoải mái"
+      }
+    ]
+  },
+  {
+    "name": "Koifood - Buffet nem nướng Nha Trang",
+    "address": "Số 122C Ngõ 1194 Đường Láng",
+    "distance": "700m",
+    "price": "45k - 60k",
+    "type": ["Nem nướng", "Buffet"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "10:00 - 24:00",
+    "menu": [
+      { "dish": "Buffet nem nướng", "price": "45k" },
+      { "dish": "Buffet nước", "price": "15k" }
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Dơm - Vua Bánh Tráng",
+    "address": "Số 34 Huỳnh Thúc Kháng",
+    "distance": "300m",
+    "price": "30-40k",
+    "type": ["Bánh tráng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "9:00 - 22:00",
+    "menu": [
+      { "dish": "Buffet bánh tráng", "price": "69k" },
+      { "dish": "Bánh tráng cuộn bơ sốt me", "price": "27k" },
+      { "dish": "Bánh tráng chấm", "price": "20k" },
+      { "dish": "Bánh tráng nướng truyền thống", "price": "20k" },
+      { "dish": "Bánh tráng nướng phô mai đặc biệt", "price": "45k" },
+      { "dish": "Bánh tráng trộn đặc biệt", "price": "32k" }
+    ],
+    "reviews": [
+      {
+        "name": "lamkaoo",
+        "rating": 3,
+        "content": "Quán có thể ngồi trong nhà hoặc ngoài trời nhưng hơi khó tìm điểm đỗ xe"
+      },
+      {
+        "name": "Isolde Andrea",
+        "rating": 5,
+        "content": "Quán có nhiều loại bánh tráng, bánh mềm vừa phải, gia vị đậm đà, nhiều topping như xoài, trứng cút, khô bò, hành phi"
+      },
+      {
+        "name": "Lê Minh Tuấn Phùng",
+        "rating": 4,
+        "content": "Đi 2 người ăn buffet, trải nghiệm chưa tốt vì đồ lên khá chậm"
+      },
+      {
+        "name": "Thái Ngân",
+        "rating": 5,
+        "content": "Lần đầu trải nghiệm rất hài lòng, đi theo review TikTok và không thất vọng"
+      }
+    ]
+  },
+  {
+    "name": "Bánh tráng Nhím",
+    "address": "Số 1 Ngõ 84 Chùa Láng",
+    "distance": "80m",
+    "price": "<30k",
+    "type": ["Bánh tráng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "11:00 - 23:00",
+    "menu": [
+      { "dish": "Bánh tráng nướng", "price": "25k" },
+      { "dish": "Bánh tráng trộn", "price": "25k" },
+      { "dish": "Bánh tráng cuộn", "price": "30k" },
+      { "dish": "Bánh trứng cút nướng", "price": "35k" },
+      { "dish": "Ngô xào tép", "price": "30k" },
+      { "dish": "Nộm xoài bò khô", "price": "30k" },
+      { "dish": "Khoai tây chiên", "price": "30k" }
+    ],
+    "reviews": [
+      {
+        "name": "Quỳnh Anh Đặng",
+        "rating": 5,
+        "content": "Không gian sáng sủa, sạch sẽ, đồ ăn giá phải chăng và ngon vượt mong đợi"
+      },
+      {
+        "name": "Quyen Bui",
+        "rating": 5,
+        "content": "Đặt qua Grab, vị đậm đà, bánh tráng cuộn ngon, trộn ổn nhưng hơi ít xoài"
+      },
+      {
+        "name": "Mèo Ngáo",
+        "rating": 4,
+        "content": "Bánh tráng nướng giòn, topping nhiều, ăn khá no"
+      }
+    ]
+  },
+  {
+    "name": "Tina Trần Bistro",
+    "address": "Số 45 Ngõ 33 Chùa Láng",
+    "distance": "290m",
+    "price": "<30k",
+    "type": ["Bánh tráng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "10:00 - 22:00",
+    "menu": [
+      { "dish": "Bánh tráng trộn thường", "price": "15k" },
+      { "dish": "Bánh tráng cuộn bơ", "price": "25k" },
+      { "dish": "Bánh tráng nướng trứng tép thịt", "price": "15k" },
+      { "dish": "Chén trứng nướng", "price": "15k" },
+      { "dish": "Trứng cút lộn xào me", "price": "25k" }
+    ],
+    "reviews": [
+      {
+        "name": "Ph Linh Ng",
+        "rating": 4,
+        "content": "Bánh tráng nhiều nước hơn nên hơi nhạt, bơ ngậy lạ miệng nhưng ăn nhiều hơi ngán"
+      },
+      {
+        "name": "Kiên Hải",
+        "rating": 5,
+        "content": "Món ngon, chị chủ dễ thương, nên thử"
+      },
+      {
+        "name": "Thoa Vũ",
+        "rating": 3,
+        "content": "Suất hơi ít so với giá, không có món đặc biệt, bánh tráng nướng hơi tanh"
+      }
+    ]
+  },
+  {
+    "name": "Bánh tráng trộn Sài Gòn - Chùa Láng",
+    "address": "Số 147 Ngõ 1194 Đường Láng",
+    "distance": "600m",
+    "price": "<30k",
+    "type": ["Bánh tráng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "",
+    "menu": [
+      { "dish": "Bánh tráng cuốn bơ / sốt me", "price": "30k" },
+      { "dish": "Bánh tráng trộn", "price": "30k" },
+      { "dish": "Bánh tráng nướng", "price": "30k" },
+      { "dish": "Bánh mì muối ớt", "price": "30k" },
+      { "dish": "Trứng nướng khọt", "price": "30k" },
+      { "dish": "Bắp xào tép", "price": "30k" },
+      { "dish": "Khô heo giả bò", "price": "30k" }
+    ],
+    "reviews": [
+      {
+        "name": "Phạm Thị Mỹ Lệ",
+        "rating": 5,
+        "content": "Mua mang đi"
+      },
+      {
+        "name": "Trang Vu",
+        "rating": 5,
+        "content": "Ăn vào bữa trưa"
+      }
+    ]
+  },
+  {
+    "name": "Bánh tráng trộn Quang Đăng",
+    "address": "Số 131 Chùa Láng",
+    "distance": "170m",
+    "price": "<30k",
+    "type": ["Bánh tráng"],
+    "time": ["Sáng", "Trưa", "Tối"],
+    "hours": "9:00 - 23:00",
+    "menu": [
+      { "dish": "Bánh tráng trộn", "price": "25k" },
+      { "dish": "Bánh tráng cuộn", "price": "25k" },
+      { "dish": "Bánh tráng nướng", "price": "25k" },
+      { "dish": "Bánh tráng trộn da heo", "price": "35k" },
+      { "dish": "Bánh tráng nướng phô mai", "price": "30k" },
+      { "dish": "Viên chiên thập cẩm", "price": "35k" },
+      { "dish": "Da heo lắc xoài", "price": "30k" },
+      { "dish": "Da heo mắm tỏi / mắm hành", "price": "50k" },
+      { "dish": "Bún trộn thịt nướng", "price": "25k" }
+    ],
+    "reviews": [
+      {
+        "name": "Ngân Thu",
+        "rating": 5,
+        "content": "Ăn nhiều lần vì quá ngon, nhân viên dễ thương"
+      },
+      {
+        "name": "Chi Bùi",
+        "rating": 5,
+        "content": "Quán ruột của mình, thường mua mang về"
+      },
+      {
+        "name": "Kiệt Nguyễn",
+        "rating": 5,
+        "content": "Đồ ăn ngon, để sốt riêng nên không bị bết"
+      }
+    ]
+  }
+]
