@@ -282,5 +282,184 @@
         "content": "Đồ ăn ngon, để sốt riêng nên không bị bết"
       }
     ]
+  },
+  {
+    "name": "Tê Tê Chicken",
+    "address": "Ngõ 91, Phố Chùa Láng, Láng Thượng, Đống Đa, Hà Nội, Việt Nam",
+    "distance": "200-300m",
+    "price": "59k-129k",
+    "type": ["Gà rán"],
+    "time": ["Sáng", "Trưa", "Chiều", "Tối"],
+    "hours": "08:00 - 22:00",
+    "menu": [
+      { "dish": "Gà cốc (lắc xí muội/ sốt kem/ lắc phô mai/ sốt xì dầu mật ong/ sốt cay ngọt)", "price": "59k" },
+      { "dish": "Gà rán (sốt kem hành/ rắc phô mai/ sốt bơ tỏi)", "price": "119k" },
+      { "dish": "Gà rán không xương (sốt kem hành/ sốt bơ tỏi mật ong/ sốt Mayo Honey)", "price": "129k" }
+    ],
+    "reviews": [
+      { "name": "Tiểu Ly", "rating": 4, "content": "Đồ ăn khá ổn, lên món nhanh, không gian hơi nhỏ và cần cải thiện vệ sinh." },
+      { "name": "Huyen Chau Nguyen", "rating": 4, "content": "Menu đa dạng, giá rẻ, sốt vừa miệng. Có lần bị lẫn sốt nhưng vẫn sẽ quay lại." }
+    ]
+  },
+  {
+    "name": "Bánh mì thịt xiên nướng",
+    "address": "67 Chùa Láng, Láng Thượng (cạnh Laika Coffee)",
+    "distance": "200-300m",
+    "price": "10k-50k",
+    "type": ["Thịt xiên"],
+    "time": ["Chiều", "Tối"],
+    "hours": "16:00 - 22:00",
+    "menu": [
+      { "dish": "Thịt xiên nướng", "price": "10k/xiên" },
+      { "dish": "Bánh mì thịt xiên nướng", "price": "25k/ổ" }
+    ],
+    "reviews": [
+      { "name": "Admin U", "rating": 4, "content": "Thịt xiên ngon, ăn kèm bánh mì khá ổn." }
+    ]
+  },
+  {
+    "name": "HTX Thịt Xiên Nướng Hoàng Đức",
+    "address": "55 Phố Chùa Láng, Láng Thượng",
+    "distance": "200-300m",
+    "price": "13k-100k",
+    "type": ["Thịt xiên", "Gà"],
+    "time": ["Chiều", "Tối"],
+    "hours": "11:00 - 13:00, 16:00 - 19:30",
+    "menu": [
+      { "dish": "Thịt xiên heo", "price": "13k/xiên" },
+      { "dish": "Thịt xiên gà (mua từ 5 xiên)", "price": "13k/xiên" },
+      { "dish": "Cánh gà (mua từ 5 miếng)", "price": "11k-30k" }
+    ],
+    "reviews": [
+      { "name": "Son Dao", "rating": 4, "content": "Xiên thịt vừa chín tới, nóng hổi. Trà ngon nhưng khẩu phần hơi ít." },
+      { "name": "lamkaoo", "rating": 3, "content": "Thịt xiên đậm vị, nhưng các món khác chưa đặc sắc." }
+    ]
+  },
+  {
+    "name": "Bánh mì chảo Phúc Linh",
+    "address": "78 Phố Chùa Láng, Láng Thượng, Đống Đa, Hà Nội",
+    "distance": "200m",
+    "price": "50k-100k",
+    "type": ["Bánh mì chảo"],
+    "time": ["Sáng", "Trưa", "Chiều", "Tối"],
+    "hours": "07:30 - 22:00",
+    "menu": [
+      { "dish": "Bánh mì chảo sốt truyền thống", "price": "50k" },
+      { "dish": "Bánh mì chảo sốt tiêu nấm", "price": "50k" },
+      { "dish": "Chảo bò đặc biệt", "price": "85k" },
+      { "dish": "Gọi thêm: Pate", "price": "15k" },
+      { "dish": "Gọi thêm: Trứng", "price": "8k" },
+      { "dish": "Gọi thêm: Thịt", "price": "10k" },
+      { "dish": "Gọi thêm: Xúc xích", "price": "10k" }
+    ],
+    "reviews": [
+      { "name": "Quang Tiến", "rating": 4, "content": "Bánh mì giòn, phục vụ dễ chịu, không gian hơi chật." },
+      { "name": "Huong Nguyen", "rating": 5, "content": "Quán nhỏ nhưng ngon, được refill sốt miễn phí." }
+    ]
+  },
+  {
+    "name": "Chà bá lửa",
+    "address": "44 Ngõ 59 Chùa Láng, Láng Thượng, Đống Đa",
+    "distance": "300-400m",
+    "price": "15k-45k",
+    "type": ["Bánh mì muối ớt"],
+    "time": ["Sáng", "Trưa", "Chiều", "Tối"],
+    "hours": "08:00 - 23:00",
+    "menu": [
+      { "dish": "Vị truyền thống", "price": "20k-30k" },
+      { "dish": "Vị đặc biệt (best seller)", "price": "25k-35k" },
+      { "dish": "Full topping", "price": "35k-45k" },
+      { "dish": "Laya trứng muối", "price": "15k" }
+    ],
+    "reviews": [
+      { "name": "Kim Ngân Trần", "rating": 4, "content": "Bánh mì muối ớt ổn, nhiều topping, hợp giới trẻ." },
+      { "name": "Sơn Phạm Trường", "rating": 4, "content": "Đồ ăn ngon nhưng quán hơi khó tìm, chỗ ngồi hơi chật." }
+    ]
+  },
+  {
+    "name": "Bánh mì One One",
+    "address": "87 Phố Chùa Láng, Đống Đa, Hà Nội",
+    "distance": "Cạnh cổng trường FTU",
+    "price": "15k-35k",
+    "type": ["Bánh mì pate"],
+    "time": ["Cả ngày"],
+    "hours": "06:30 - 21:30",
+    "menu": [
+      { "dish": "Bánh mì pate nhân trứng", "price": "20k-30k" },
+      { "dish": "Combo bánh mì + trà tắc", "price": "30k-35k" }
+    ],
+    "reviews": [
+      { "name": "MindControl KMC", "rating": 4, "content": "Bánh mì nhiều nhân, dễ tìm." },
+      { "name": "Admin Review", "rating": 4, "content": "Quán quen sinh viên, đông nhưng combo 30k khá ngon." }
+    ]
+  },
+  {
+    "name": "Bánh mì chả cá",
+    "address": "Phía tay trái từ cổng trường",
+    "distance": "100m",
+    "price": "16k-35k",
+    "type": ["Bánh mì pate"],
+    "time": ["Sáng", "Trưa"],
+    "hours": "09:00 - 15:00",
+    "menu": [
+      { "dish": "Bánh mì chả cá/trứng", "price": "16k" },
+      { "dish": "Bánh mì thập cẩm", "price": "25k" },
+      { "dish": "Combo bánh + sữa gạo", "price": "30k-35k" }
+    ],
+    "reviews": [
+      { "name": "Admin U", "rating": 4, "content": "Bánh ngon, nên mua combo. Nên đi sớm để đồ nóng." }
+    ]
+  },
+  {
+    "name": "Bánh mì Pew Pew",
+    "address": "1 Ngõ 84 Phố Chùa Láng, Láng Thượng",
+    "distance": "300-400m",
+    "price": "15k-35k",
+    "type": ["Bánh mì pate"],
+    "time": ["Sáng", "Trưa", "Chiều", "Tối"],
+    "hours": "06:00 - 21:00",
+    "menu": [
+      { "dish": "Bánh mì cóc", "price": "15k" },
+      { "dish": "Bánh mì thập cẩm (best seller)", "price": "35k" },
+      { "dish": "Bánh mì gà mật ong", "price": "35k" },
+      { "dish": "Bánh mì bò tiêu đen", "price": "35k" }
+    ],
+    "reviews": [
+      { "name": "Thế Anh Nguyễn", "rating": 4, "content": "Bánh mì thập cẩm khá hợp vị." },
+      { "name": "Taiga Akimoto", "rating": 5, "content": "Giá rẻ, bánh giòn, nhân viên chuyên nghiệp." }
+    ]
+  },
+  {
+    "name": "Bánh cuốn gia truyền Huyền Anh",
+    "address": "Số 1 Ngõ 84, Phố Chùa Láng, Láng Thượng",
+    "distance": "300-400m",
+    "price": "25k-100k",
+    "type": ["Bánh cuốn"],
+    "time": ["Sáng", "Trưa", "Chiều", "Tối"],
+    "hours": "06:00 - 22:30",
+    "menu": [
+      { "dish": "Bánh cuốn thường", "price": "25k" },
+      { "dish": "Bánh cuốn chả quế", "price": "30k" }
+    ],
+    "reviews": [
+      { "name": "LamKaoo", "rating": 3, "content": "Giá rẻ nhưng chất lượng ở mức tạm, không gian hơi bí." },
+      { "name": "Thuận Trần", "rating": 3, "content": "Ăn tạm ổn, không quá xuất sắc." }
+    ]
+  },
+  {
+    "name": "Bánh cuốn nóng bún chả",
+    "address": "29 Ngõ 185 Phố Chùa Láng, Láng Thượng, Đống Đa",
+    "distance": "600m",
+    "price": "25k-80k",
+    "type": ["Bánh cuốn"],
+    "time": ["Sáng", "Trưa"],
+    "hours": "09:00 - 15:00",
+    "menu": [
+      { "dish": "Bánh cuốn chả quế", "price": "25k" },
+      { "dish": "Bánh cuốn chả nướng/trứng chả quế", "price": "30k" }
+    ],
+    "reviews": [
+      { "name": "Thưởng Công", "rating": 3, "content": "Bánh cuốn ổn, nước chấm vừa miệng nhưng cần chú ý vệ sinh." }
+    ]
   }
 ]
